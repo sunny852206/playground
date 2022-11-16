@@ -1,5 +1,40 @@
-.lastContent {
+/* .lastContent {
   border-style: solid;
   border-color: black;
   background-color: pink;
+} */
+
+body {
+  background-color: #f0ebe3;
+  margin: 0;
+}
+hr {
+  border-style: dotted none none none;
+  border-color: rgb(178, 178, 178);
+  border-width: 8px;
+  width: 8%;
+}
+h1 {
+  margin-top: 0;
+}
+h1,
+h3 {
+  color: #576f72;
+}
+img {
+  border-radius: 50%;
+}
+.top-container {
+  background-color: lightgreen;
+}
+
+.mid-container {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+.bot-container {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
 }
